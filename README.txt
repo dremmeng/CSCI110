@@ -1,0 +1,1 @@
+This final project counts the number of games possible of tic tack toe and outlines important information to a file. 

@@ -1,0 +1,9 @@
+Distinct Boards: 8533
+Winning boards: 1884
+Filled Boards: 156
+Final Boards: 1916
+Early Wins: 1760
+Draws: 32
+Wins on the last move: 124
+Fast wins: 240
+Fast Counters: 296
